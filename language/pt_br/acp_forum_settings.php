@@ -25,7 +25,7 @@ $lang = array_merge($lang, [
 	'MOVE_TOPICS_SOLVED'						=> 'Mover tópicos resolvidos & trancados automaticamente',
 	'MOVE_TOPICS_SOLVED_EXTENSION'				=> '<a href="https://www.phpbb.com/customise/db/extension/topic_solved/">Topic Solved</a>',
 	
-	'MOVE_AUTO_LOCK'				            => 'Mover tópicos auto-trancados automaticamente.',
+	'MOVE_AUTO_LOCK'				            => 'Mover tópicos auto-trancados automaticamente',
 	'MOVE_AUTO_LOCK_EXTENSION'				    => '<a href="https://www.phpbb.com/customise/db/extension/auto_lock_topics/">Auto-lock Topics</a>',
 	
 	'MOVE_EXTENSION_VERSION'					=> 'Você precisa de pelo menos a versão <strong>%1$s</strong> da extensão <strong>%2$s</strong>.',
